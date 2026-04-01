@@ -103,7 +103,7 @@ def save_to_csv(data: list, filepath: str) -> None:
 
 def main():
     """Main entrypoint of the scraper script."""
-    url = 'https://www.basketball-reference.com/leagues/NBA_2024_per_game.html'
+    url = 'https://www.basketball-reference.com/leagues/NBA_2026_per_game.html'
     csv_filename = 'players.csv'
     
     try:

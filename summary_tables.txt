@@ -1,0 +1,123 @@
+
+============================================================
+SUMMARY — Q1: Top 10 scorers and their salaries
+============================================================
+                     Player Pos Team  PTS/G  Salary ($M)
+1               Luka Dončić  PG  LAL   33.8         46.0
+2   Shai Gilgeous-Alexander  PG  OKC   31.6         38.3
+3           Anthony Edwards  SG  MIN   29.3         45.6
+4              Tyrese Maxey  PG  PHI   28.8         38.0
+5              Jaylen Brown  SF  BOS   28.6         53.1
+6             Kawhi Leonard  SF  LAC   28.1         50.0
+7              Nikola Jokić   C  DEN   27.9         55.2
+8          Donovan Mitchell  SG  CLE   27.7         46.4
+9     Giannis Antetokounmpo  PF  MIL   27.6         54.1
+10            Stephen Curry  PG  GSW   27.2         59.6
+
+============================================================
+SUMMARY — Q2: Teams sorted by salary per historical win
+============================================================
+                 Franchise  W (hist.)     W%  Payroll ($M)  $/Win ($M)
+1           Boston Celtics       3739  0.597         189.7      0.0507
+2       Philadelphia 76ers       3161  0.519         193.8      0.0613
+3            Atlanta Hawks       3003  0.493         186.5      0.0621
+4          Detroit Pistons       2919  0.475         185.9      0.0637
+5         Sacramento Kings       2805  0.456         186.5      0.0665
+6    Golden State Warriors       3049  0.488         204.7      0.0672
+7       Los Angeles Lakers       3642  0.592         245.6      0.0674
+8        San Antonio Spurs       2766  0.581         189.1      0.0684
+9    Oklahoma City Thunder       2590  0.545         187.5      0.0724
+10         New York Knicks       3068  0.490         225.2      0.0734
+11           Chicago Bulls       2449  0.507         183.7      0.0750
+12           Brooklyn Nets       2071  0.435         156.6      0.0756
+13          Denver Nuggets       2458  0.516         186.7      0.0760
+14         Houston Rockets       2462  0.518         194.7      0.0791
+15               Utah Jazz       2214  0.530         175.5      0.0793
+16            Phoenix Suns       2504  0.536         201.0      0.0803
+17         Milwaukee Bucks       2464  0.527         199.2      0.0808
+18          Indiana Pacers       2422  0.509         196.6      0.0812
+19      Washington Wizards       2306  0.440         189.9      0.0823
+20  Portland Trail Blazers       2360  0.523         221.3      0.0938
+21        Dallas Mavericks       1858  0.503         182.5      0.0982
+22     Cleveland Cavaliers       2137  0.475         212.1      0.0993
+23    Los Angeles Clippers       1927  0.427         209.8      0.1089
+24              Miami Heat       1596  0.526         186.4      0.1168
+25           Orlando Magic       1394  0.472         194.2      0.1393
+26       Memphis Grizzlies       1069  0.435         166.6      0.1558
+27       Charlotte Hornets       1227  0.429         193.8      0.1580
+28         Toronto Raptors       1163  0.473         187.0      0.1608
+29  Minnesota Timberwolves       1237  0.420         204.2      0.1651
+30    New Orleans Pelicans        874  0.456         187.6      0.2147
+
+=================================================================
+Q3 TABLE — Top 5 franchises by avg salary for each position
+=================================================================
+
+Point Guard
+               Franchise  Avg salary ($M)
+1         Denver Nuggets            46.39
+2     Los Angeles Lakers            46.00
+3   New Orleans Pelicans            23.39
+4      Charlotte Hornets            22.98
+5  Oklahoma City Thunder            21.76
+
+Shooting Guard
+                Franchise  Avg salary ($M)
+1            Phoenix Suns            34.53
+2        Sacramento Kings            23.14
+3           Orlando Magic            19.85
+4     Cleveland Cavaliers            19.46
+5  Minnesota Timberwolves            15.60
+
+Small Forward
+               Franchise  Avg salary ($M)
+1  Golden State Warriors            54.13
+2        Houston Rockets            28.50
+3         Boston Celtics            27.96
+4        Toronto Raptors            22.59
+5          Brooklyn Nets            22.29
+
+Power Forward
+          Franchise  Avg salary ($M)
+1   New York Knicks            39.57
+2   Milwaukee Bucks            29.99
+3   Detroit Pistons            26.63
+4         Utah Jazz            25.27
+5  Dallas Mavericks            23.41
+
+Center
+                Franchise  Avg salary ($M)
+1          Denver Nuggets            32.81
+2   Oklahoma City Thunder            28.50
+3  Minnesota Timberwolves            28.28
+4      Los Angeles Lakers            23.59
+5         New York Knicks            22.68
+
+=======================================================
+Q4 TABLE — Top 20 scorers and their salaries
+=======================================================
+                     Player Pos Team  PTS/G  Salary ($M)
+1               Luka Dončić  PG  LAL   33.8         46.0
+2   Shai Gilgeous-Alexander  PG  OKC   31.6         38.3
+3           Anthony Edwards  SG  MIN   29.3         45.6
+4              Tyrese Maxey  PG  PHI   28.8         38.0
+5              Jaylen Brown  SF  BOS   28.6         53.1
+6             Kawhi Leonard  SF  LAC   28.1         50.0
+7              Nikola Jokić   C  DEN   27.9         55.2
+8          Donovan Mitchell  SG  CLE   27.7         46.4
+9     Giannis Antetokounmpo  PF  MIL   27.6         54.1
+10            Stephen Curry  PG  GSW   27.2         59.6
+11              Joel Embiid   C  PHI   26.9         55.2
+12          Lauri Markkanen  PF  UTA   26.7         46.4
+13            Jalen Brunson  PG  NYK   26.1         34.9
+14             Kevin Durant  SF  HOU   25.9         54.7
+15             Devin Booker  SG  PHO   25.8         53.1
+16             Jamal Murray  PG  DEN   25.5         46.4
+17          Cade Cunningham  PG  DET   24.5         46.4
+18        Victor Wembanyama   C  SAS   24.5         13.4
+19       Michael Porter Jr.  SF  BRK   24.2         38.3
+20              Deni Avdija  SF  POR   23.9         14.4
+
+Avg salary — top 20 scorers : $44.5M
+Avg salary — rest of players    : $9.7M
+Difference                      : $34.7M (356% more)
